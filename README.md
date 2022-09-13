@@ -1,5 +1,5 @@
 # Using Quantum Computers to Speed Up Dynamic Testing of Software
-Jupyter notebook `example.ipynb` implements an example described in [this]() preprint.
+Jupyter notebook `example.ipynb` implements an example described in [this](https://doi.org/10.48550/arXiv.2209.04860) preprint.
 
 ## Setup
 To set up the environment, run
@@ -15,7 +15,8 @@ Please reference the paper as follows.
   author={Miranskyy, Andriy},
   booktitle={1st International Workshop on Quantum Programming for Software Engineering},
   year={2022},
-  note={to appear}
+  doi={10.1145/3549036.3562061},
+  note={To appear, see preprint \url{https://doi.org/10.48550/arXiv.2209.04860} for details.}
 }
 ```
 
